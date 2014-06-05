@@ -1,1 +1,1 @@
-[View](http://stephanfowler.github.io/nav-hack/?section=culture&sub=music)
+[View variants](http://stephanfowler.github.io/nav-hack/)
